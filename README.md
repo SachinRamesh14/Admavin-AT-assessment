@@ -44,35 +44,26 @@ google sheet link - "https://docs.google.com/spreadsheets/d/1kMlOBGa1HOSYG1hlV2S
   mvn clean test
   allure serve target/allure-results
 
-  ###✅ Task 3: Bug Report
+ 
+ ###✅ Task 3: Bug Report
 🔍 Reported 8 realistic bugs from ToDoMVC:
-
 Input validation issues
-
 Deletion/editing edge cases
-
 UI/UX bugs
-
 📝 Format includes:
-
 Bug ID, Title, Steps to Reproduce, Expected vs Actual, Severity
 
-✅ Task 4: Google Maps Functional Testing
+
+###✅ Task 4: Google Maps Functional Testing
 🗺️ Website: https://www.google.com/maps
-
 ✔️ Verified:
-
 Map load, zoom, pan
-
 Location search
-
 Route & distance
-
 Street View & geo-location
-
 📊 Table includes:
-
 Test IDs, steps, expected and actual results, status
+
 
 🚀 Tech Stack
 | Tool         | Usage                |
